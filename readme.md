@@ -1,0 +1,1 @@
+# this is a script to create a django project
